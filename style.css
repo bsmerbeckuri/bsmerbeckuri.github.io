@@ -13,10 +13,10 @@ body{
 }
 #container a {
 
-    color: #e3ded1;
+    color: #764f55;
 }
 #container a:hover {
-    color: #764f55;
+    color: #e3ded1;
 }
 #footer{
     background: #a29d90;
@@ -38,8 +38,8 @@ body{
     width:800px;
 }
 #footer a {
-    color: #e3ded1;
+    color: #764f55;
 }
 #footer a:hover {
-    color: #764f55;
+    color: #e3ded1;
 }
