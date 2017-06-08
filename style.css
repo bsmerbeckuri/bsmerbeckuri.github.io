@@ -13,13 +13,13 @@ body{
 }
 #container a {
 
-    color: #e3f09b;
+    color: #e3ded1;
 }
 #container a:hover {
-    color: #dbfeb8;
+    color: #764f55;
 }
 #footer{
-    background: #b9b9bc;
+    background: #a29d90;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -38,8 +38,8 @@ body{
     width:800px;
 }
 #footer a {
-    color: #e3f09b;
+    color: #e3ded1;
 }
 #footer a:hover {
-    color: #dbfeb8;
+    color: #764f55;
 }
