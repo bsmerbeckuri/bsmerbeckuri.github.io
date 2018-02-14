@@ -2,6 +2,7 @@ body{
     margin:0px; padding:0px;
     font-family:Raleway;
     background:url(images/background.jpg) no-repeat;
+    background-size:100%;
 }
 #outside_container{
     height:0px;
